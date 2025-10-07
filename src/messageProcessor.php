@@ -1,5 +1,4 @@
 <?php
-// src/MessageProcessor.php
 require_once __DIR__ . '/inspection.php';
 require_once __DIR__ . '/failure_report.php';
 
@@ -8,18 +7,16 @@ class MessageProcessor
     private array $inspections = [];
     private array $failureReports = [];
     private array $failedMessages = [];
-    private array $descriptions = []; // to track duplicates
+    private array $descriptions = [];
 
     public function processMessages(array $messages)
     {
         foreach ($messages as $msg) {
             $desc = trim($msg['description'] ?? '');
 
-            // Normalize phone
             $phone = trim($msg['phone'] ?? '');
             $phone = ($phone === '' || $phone === '"') ? '' : $phone;
 
-            // Skip empty or duplicate descriptions
             if ($desc === '' || isset($this->descriptions[$desc])) {
                 $this->failedMessages[] = [
                     'message' => $msg,
@@ -68,7 +65,6 @@ class MessageProcessor
     {
         $desc = $msg['description'] ?? '';
 
-        // Determine priority
         $priority = 'normal';
         if (stripos($desc, 'bardzo pilne') !== false) {
             $priority = 'critical';

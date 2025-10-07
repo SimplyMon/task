@@ -1,5 +1,4 @@
 <?php
-// src/FailureReport.php
 class FailureReport implements JsonSerializable
 {
     public string $description;

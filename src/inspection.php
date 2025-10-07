@@ -1,5 +1,4 @@
 <?php
-// src/Inspection.php
 class Inspection implements JsonSerializable
 {
     public string $description;
