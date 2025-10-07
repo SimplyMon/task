@@ -29,12 +29,15 @@ recruitment-task/
 │ └── messageProcessorTest.php
 │
 
-├── out/
+├── output/
 │
 
 ├── process.php
+
 ├── recruitment-task-source.json
+
 ├── composer.json
+
 └── README.md
 
 ---
