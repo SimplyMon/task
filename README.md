@@ -17,12 +17,11 @@ recruitment-task/
 
 ├── src/
 
-
-  │ ├── failure_report.php
+    │ ├── failure_report.php
   
-  │ ├── inspection.php
+    │ ├── inspection.php
   
-  │ └── messageProcessor.php
+    │ └── messageProcessor.php
 │
 
 ├── tests/
