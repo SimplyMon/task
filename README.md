@@ -19,15 +19,19 @@ recruitment-task/
 
 │ ├── failure_report.php
   
- │ ├── inspection.php
+│ ├── inspection.php
   
 │ └── messageProcessor.php
 │
+
 ├── tests/
+
 │ └── messageProcessorTest.php
 │
+
 ├── out/
 │
+
 ├── process.php
 ├── recruitment-task-source.json
 ├── composer.json
