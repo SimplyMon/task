@@ -18,11 +18,12 @@ recruitment-task/
 ├── src/
 
 
-│ ├── failure_report.php
-│ ├── inspection.php
-│ └── messageProcessor.php
+  │ ├── failure_report.php
+  
+  │ ├── inspection.php
+  
+  │ └── messageProcessor.php
 │
-
 
 ├── tests/
 │ └── messageProcessorTest.php
