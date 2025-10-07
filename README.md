@@ -13,6 +13,8 @@ It outputs the results as three JSON files under the `/out` directory.
 ## Project Structure
 
 recruitment-task/
+
+
 ├── src/
 │ ├── failure_report.php
 │ ├── inspection.php
