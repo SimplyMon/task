@@ -6,7 +6,7 @@ This project processes a list of service messages (in JSON format) and classifie
 - **Failure Reports**
 - **Failed Messages** (duplicates or empty descriptions)
 
-It outputs the results as three JSON files under the `/out` directory.
+It outputs the results as three JSON files under the `/output` directory.
 
 ---
 
@@ -63,7 +63,8 @@ composer -V
 Clone the repository and install dependencies:
 
 git clone https://github.com/SimplyMon/task.git
-cd recruitment-task
+
+cd task
 composer install
 
 ---
