@@ -1,0 +1,72 @@
+[
+    {
+        "description": "Inspection scheduled for February. Please also take a look at the switchboard.",
+        "type": "inspection",
+        "inspectionDate": "2020-02-05",
+        "weekOfYear": 6,
+        "status": "scheduled",
+        "recommendations": "",
+        "clientPhone": "888000128",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "Hello, good morning. I recently reported a failure, but now I would like an inspection. Please come and check the fan coil units.",
+        "type": "inspection",
+        "inspectionDate": "",
+        "weekOfYear": null,
+        "status": "new",
+        "recommendations": "",
+        "clientPhone": "668-221-777",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "Please come for an inspection of the electrical installation on February 15.",
+        "type": "inspection",
+        "inspectionDate": "2020-02-15",
+        "weekOfYear": 7,
+        "status": "scheduled",
+        "recommendations": "",
+        "clientPhone": "+48606303404",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "Could you please come for another inspection of the sewage pipes? We have a small odor problem here.",
+        "type": "inspection",
+        "inspectionDate": "2020-02-22",
+        "weekOfYear": 8,
+        "status": "scheduled",
+        "recommendations": "",
+        "clientPhone": "+48701145976",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "I have bad news for you. Please come for another inspection of the protective mat in the cash desk furniture. It was checked recently, but unfortunately it still doesn\u2019t work, urgent!",
+        "type": "inspection",
+        "inspectionDate": "2020-03-02",
+        "weekOfYear": 10,
+        "status": "scheduled",
+        "recommendations": "",
+        "clientPhone": "+48505167301",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "I think it is time to arrange another inspection of the air conditioning in the sales area. It\u2019s not very urgent but definitely necessary!",
+        "type": "inspection",
+        "inspectionDate": "",
+        "weekOfYear": null,
+        "status": "new",
+        "recommendations": "",
+        "clientPhone": "506 482 179",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "We are requesting an immediate inspection of the forklifts, it seems something is leaking from one of them.",
+        "type": "inspection",
+        "inspectionDate": "2020-04-01",
+        "weekOfYear": 14,
+        "status": "scheduled",
+        "recommendations": "",
+        "clientPhone": "567-124-572",
+        "createdAt": "2025-10-07 09:29:18"
+    }
+]

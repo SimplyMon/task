@@ -1,0 +1,20 @@
+[
+    {
+        "message": {
+            "number": 11,
+            "description": "Request for a visit",
+            "dueDate": "2020-02-23",
+            "phone": ""
+        },
+        "reason": "Empty or duplicate description"
+    },
+    {
+        "message": {
+            "number": 16,
+            "description": "Boiler failure in the main storage room.",
+            "dueDate": "",
+            "phone": ""
+        },
+        "reason": "Empty or duplicate description"
+    }
+]

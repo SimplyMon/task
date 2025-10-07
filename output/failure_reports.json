@@ -1,0 +1,112 @@
+[
+    {
+        "description": "Air conditioning failure. The temperature in the showroom has risen to 27 degrees. Regards, Ela.",
+        "type": "failure_report",
+        "priority": "normal",
+        "serviceVisitDate": "2020-01-04",
+        "status": "appointment",
+        "serviceNotes": "",
+        "clientPhone": "",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "Request for a visit",
+        "type": "failure_report",
+        "priority": "normal",
+        "serviceVisitDate": "2020-01-07",
+        "status": "appointment",
+        "serviceNotes": "",
+        "clientPhone": "",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "Leaking tap in the back room. Wet shoes!",
+        "type": "failure_report",
+        "priority": "normal",
+        "serviceVisitDate": "2020-02-01",
+        "status": "appointment",
+        "serviceNotes": "",
+        "clientPhone": "4",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "The plaster is falling off between the cupboard, shelf, and display case, please reattach it.",
+        "type": "failure_report",
+        "priority": "normal",
+        "serviceVisitDate": "2020-02-03",
+        "status": "appointment",
+        "serviceNotes": "",
+        "clientPhone": "666-445-127",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "Failure! Failure of the deep well pump at the VIP guest pool. No time, please come immediately.",
+        "type": "failure_report",
+        "priority": "normal",
+        "serviceVisitDate": "",
+        "status": "new",
+        "serviceNotes": "",
+        "clientPhone": "668-221-777",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "The AC is not cooling, it only heats. I am not happy about this.",
+        "type": "failure_report",
+        "priority": "normal",
+        "serviceVisitDate": "",
+        "status": "new",
+        "serviceNotes": "",
+        "clientPhone": "",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "Very urgent. Please send service immediately, the refrigerators in the meat department work randomly, sometimes on, sometimes off.",
+        "type": "failure_report",
+        "priority": "normal",
+        "serviceVisitDate": "2020-03-01",
+        "status": "appointment",
+        "serviceNotes": "",
+        "clientPhone": "876123567",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "This is quite urgent because we have a chilled water leak near the ceiling in the corner. Please visit!",
+        "type": "failure_report",
+        "priority": "normal",
+        "serviceVisitDate": "2020-03-02",
+        "status": "appointment",
+        "serviceNotes": "",
+        "clientPhone": "873322976",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "Boiler failure in the main storage room.",
+        "type": "failure_report",
+        "priority": "normal",
+        "serviceVisitDate": "",
+        "status": "new",
+        "serviceNotes": "",
+        "clientPhone": "",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "Meat slicer. The main blade does not work, very urgent.",
+        "type": "failure_report",
+        "priority": "normal",
+        "serviceVisitDate": "",
+        "status": "new",
+        "serviceNotes": "",
+        "clientPhone": "888241636",
+        "createdAt": "2025-10-07 09:29:18"
+    },
+    {
+        "description": "No internet in the staff room, maybe someone disconnected the cable.",
+        "type": "failure_report",
+        "priority": "normal",
+        "serviceVisitDate": "",
+        "status": "new",
+        "serviceNotes": "",
+        "clientPhone": "",
+        "createdAt": "2025-10-07 09:29:18"
+    }
+]
