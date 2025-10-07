@@ -74,7 +74,7 @@ composer install
 
 Run the main processing script:
 
-php process.php recruitment-task-source.json
+    php process.php recruitment-task-source.json
 
 This will process all messages and create the following output files:
 output/
@@ -102,7 +102,7 @@ This project includes PHPUnit tests.
 
 To run all tests:
 
-./vendor/bin/phpunit --testdox tests
+    ./vendor/bin/phpunit --testdox tests
 
 Example output:
 
